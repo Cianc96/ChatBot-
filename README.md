@@ -1,7 +1,8 @@
 Title: Chatbot 
+
 Cian Culloo
 
-Hybrid chatbot using bot generative and retreival models. 
+Hybrid chatbot using both generative and retreival models. 
 
 Use Cases for chatbot: 
 
