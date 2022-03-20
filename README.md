@@ -1,2 +1,12 @@
-# ChatBot-
-Hybrid ChatBot built using both retrieval-based and generative dialogue systems
+Title: Chatbot 
+Cian Culloo
+
+Hybrid chatbot using bot generative and retreival models. 
+
+Use Cases for chatbot: 
+
+List of techniques used: 
+
+Reflections:
+
+List of dependencies:
